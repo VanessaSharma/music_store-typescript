@@ -1,0 +1,24 @@
+{
+  "name": "cd-store",
+  "description": "cd-store, angular",
+  "main": "",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "authors": [
+    "Halle & Vanessa"
+  ],
+  "private": true
+}
